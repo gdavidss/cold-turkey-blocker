@@ -1,5 +1,9 @@
 A simple workflow for triggering Cold Turkey blocks for a specified number of hours.
 
+<img width="554" alt="Screenshot at Nov 23 14-17-14" src="https://user-images.githubusercontent.com/62527620/203610829-2f947aa9-37ce-4973-b816-258c15289d01.png">
+<img width="556" alt="Screenshot at Nov 23 14-12-57" src="https://user-images.githubusercontent.com/62527620/203610851-61baced7-04a8-4172-b05c-5e9b65f7a799.png">
+
+
 Cold Turkey is an app to block websites, games, and applications to boost productivity and reclaim free time.
 
 **To trigger an existing block:**

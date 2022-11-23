@@ -4,11 +4,11 @@ Cold Turkey is an app to block websites, games, and applications to boost produc
 
 **To trigger an existing block:**
 
-  block <hours> <block name(s)>
+  block (hours) (block name(s))
 
 **To add an URL to an existing block:**
 
-  urlblock <block name> <url>
+  urlblock (block name) (url)
 
 **Blocking all links with certain string:**
 

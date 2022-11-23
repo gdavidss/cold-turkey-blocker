@@ -14,4 +14,4 @@ Cold Turkey is an app to block websites, games, and applications to boost produc
 
   The * character represents any text. If you want to block all websites with "unicorn" in the URL, you could add *unicorn* to the block. If you only want to block Google searches for "unicorn" you could add: google.com/*q=*unicorn*
 
-More information on the specifics of Cold Turkey can be found in their user guide
+More information on the specifics of Cold Turkey can be found in their [user guide](https://getcoldturkey.com/support/user-guide/#part-websites-faq)

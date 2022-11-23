@@ -1,99 +1,17 @@
-## A simple workflow for triggering Cold Turkey blocks for a specified number of hours.
+A simple workflow for triggering Cold Turkey blocks for a specified number of hours.
 
-Cold Turkey is an app to block websites, games, and applications to boost productivity and reclaim free time. 
+Cold Turkey is an app to block websites, games, and applications to boost productivity and reclaim free time.
 
-To use it:
+To trigger an existing block:
 
-- Create a block on Cold Turkey
+block <hours> <block name(s)>
 
-- type "block A simple workflow for triggering Cold Turkey blocks for a specified number of hours.
+To add an URL to an existing block:
 
-Cold Turkey is an app to block websites, games, and applications to boost productivity and reclaim free time. 
+urlblock <block name> <url>
 
-To use it:
+Blocking all links with certain string:
 
-- Create a block on Cold Turkey
+The * character represents any text. If you want to block all websites with "unicorn" in the URL, you could add *unicorn* to the block. If you only want to block Google searches for "unicorn" you could add: google.com/*q=*unicorn*
 
-- type "block <name of the block> <number of hours>"A simple workflow for triggering Cold Turkey blocks for a specified number of hours.
-
-Cold Turkey is an app to block websites, games, and applications to boost productivity and reclaim free time. 
-
-To use it:
-
-- Create a block on Cold Turkey
-
-- type "block <name of the block> <number of hours>"A simple workflow for triggering Cold Turkey blocks for a specified number of hours.
-
-Cold Turkey is an app to block websites, games, and applications to boost productivity and reclaim free time. 
-
-To use it:
-
-- Create a block on Cold Turkey
-
-- type "block <name of the block> <number of hours>"A simple workflow for triggering Cold Turkey blocks for a specified number of hours.
-
-Cold Turkey is an app to block websites, games, and applications to boost productivity and reclaim free time. 
-
-To use it:
-
-- Create a block on Cold Turkey
-
-- type "block <name of the block> <number of hours>"A simple workflow for triggering Cold Turkey blocks for a specified number of hours.
-
-Cold Turkey is an app to block websites, games, and applications to boost productivity and reclaim free time. 
-
-To use it:
-
-- Create a block on Cold Turkey
-
-- type "block <name of the block> <number of hours>"A simple workflow for triggering Cold Turkey blocks for a specified number of hours.
-
-Cold Turkey is an app to block websites, games, and applications to boost productivity and reclaim free time. 
-
-To use it:
-
-- Create a block on Cold Turkey
-
-- type "block <name of the block> <number of hours>"A simple workflow for triggering Cold Turkey blocks for a specified number of hours.
-
-Cold Turkey is an app to block websites, games, and applications to boost productivity and reclaim free time. 
-
-To use it:
-
-- Create a block on Cold Turkey
-
-- type "block <name of the block> <number of hours>"A simple workflow for triggering Cold Turkey blocks for a specified number of hours.
-
-Cold Turkey is an app to block websites, games, and applications to boost productivity and reclaim free time. 
-
-To use it:
-
-- Create a block on Cold Turkey
-
-- type "block <name of the block> <number of hours>"A simple workflow for triggering Cold Turkey blocks for a specified number of hours.
-
-Cold Turkey is an app to block websites, games, and applications to boost productivity and reclaim free time. 
-
-To use it:
-
-- Create a block on Cold Turkey
-
-- type "block <name of the block> <number of hours>"A simple workflow for triggering Cold Turkey blocks for a specified number of hours.
-
-Cold Turkey is an app to block websites, games, and applications to boost productivity and reclaim free time. 
-
-To use it:
-
-- Create a block on Cold Turkey
-
-- type "block <name of the block> <number of hours>"A simple workflow for triggering Cold Turkey blocks for a specified number of hours.
-
-Cold Turkey is an app to block websites, games, and applications to boost productivity and reclaim free time. 
-
-To use it:
-
-- Create a block on Cold Turkey
-
-- type "block <hours> <block name(s)>"
-
-block names are separated by space
+More information on the specifics of Cold Turkey can be found in their user guide
